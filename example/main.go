@@ -21,7 +21,7 @@ func init() {
 
 func main() {
 	zero.RunAndBlock(&zero.Config{
-		NickName:      []string{"bot"},
+		NickName:      []string{"椛椛"},
 		CommandPrefix: "/",
 		SuperUsers:    []int64{123456},
 		Driver: []zero.Driver{
